@@ -19,7 +19,7 @@ crewAI takes the concept of MAS to the next level by introducing a cognitive arc
 **The Future of AI-Driven Collaboration**
 The potential applications of crewAI and Multi-Agent Systems are vast, spanning industries such as:
 
- Healthcare: Optimizing patient care and resource allocation
- Logistics: Streamlining supply chain management and route optimization
- Cybersecurity: Enhancing threat detection and incident response
- Financial Services: Improving risk management and portfolio optimization
+ - Healthcare: Optimizing patient care and resource allocation
+ - Logistics: Streamlining supply chain management and route optimization
+ - Cybersecurity: Enhancing threat detection and incident response
+ - Financial Services: Improving risk management and portfolio optimization
